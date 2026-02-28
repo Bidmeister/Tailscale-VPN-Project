@@ -61,7 +61,17 @@ This project demonstrates how I used Tailscale (a WireGuard‑based mesh VPN) to
 - Exit nodes allow secure internet routing through trusted devices.
 
 ## Screenshots
-<img width="1210" height="465" alt="image" src="https://github.com/user-attachments/assets/81ffdd7a-6bf6-4f6c-b79c-a4568043509e" />
+<img width="1178" height="441" alt="image" src="https://github.com/user-attachments/assets/65a27c27-79f7-4b1f-bfd4-66bb1f3e8ae0" />
+
+<img width="901" height="643" alt="image" src="https://github.com/user-attachments/assets/b99788f1-2c81-45b5-ae1c-ac5f3a927dd4" />
+
+<img width="772" height="610" alt="image" src="https://github.com/user-attachments/assets/7daff56a-acd9-4074-80d2-c79596f3ff82" />
+
+<img width="671" height="450" alt="image" src="https://github.com/user-attachments/assets/96654ad8-7cd7-4701-affa-fb3e29ad7a24" />
+
+<img width="1000" height="953" alt="image" src="https://github.com/user-attachments/assets/8fcb09a2-dc1f-4dc1-a316-c55249731b87" />
+
+
 
 
 ## What I Learned
